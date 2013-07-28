@@ -1,0 +1,8 @@
+{
+    "python-package": {
+        "url": "https://github.com/fcurella/python-package/archive/v0.0.1.zip",
+        "version": "0.0.1",
+        "author": "Flavio Curella",
+        "description": "A generic enough template for Python packages."
+    }
+}
